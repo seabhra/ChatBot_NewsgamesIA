@@ -1,7 +1,11 @@
-# Ignore Gradle project-specific cache directory
-.gradle
-
-# Ignore Gradle build output directory
-build
-.env
+# Ignorar arquivos da AMD
 AppData/Local/AMD/
+
+# Ignorar arquivos temporários do Windows
+Thumbs.db
+Desktop.ini
+
+# Ignorar arquivos binários
+*.blb
+*.bin
+AppData/Local/AMD/*
